@@ -10,9 +10,9 @@ Objetivos:
 - Criar um guia prático para revisões futuras.
 
 ## 2. Curadoria de Fontes
-- [Fonte 1: Introdução à IA](https://zenodo.org/records/15723262)
-- [Fonte 2: Machine Learning Basics](link)
-- [Fonte 3: IA na Educação](link)
+- [Fonte 1: Introdução à IA](https://www2.unifap.br/umap/files/2024/05/Introducao-a-Inteligencia-Artificial.pdf?utm_source=copilot.com)
+- [Fonte 2: Machine Learning Basics](https://homepages.dcc.ufmg.br/~bigonha/Livros/ia-aprendizado.pdf?utm_source=copilot.com)
+- [Fonte 3: IA na Educação](https://zenodo.org/records/15723262)
 
 ## 3. Engenharia de Prompts e Cicatrizes
 - Pergunta inicial: "Explique como a IA pode apoiar estudantes."
