@@ -10,7 +10,7 @@ Objetivos:
 - Criar um guia prático para revisões futuras.
 
 ## 2. Curadoria de Fontes
-- [Fonte 1: Introdução à IA](link)
+- [Fonte 1: Introdução à IA](https://zenodo.org/records/15723262)
 - [Fonte 2: Machine Learning Basics](link)
 - [Fonte 3: IA na Educação](link)
 
