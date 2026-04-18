@@ -33,3 +33,6 @@ Objetivos:
 - "Resuma os principais conceitos de IA em 5 tópicos."
 - "Explique como aplicar IA em projetos educacionais."
 - "Liste vantagens e riscos do uso de IA na aprendizagem."
+
+### Link do Projeto Notebook LM
+- Link: https://notebooklm.google.com/notebook/ed4b9605-f6dd-493d-968d-ba65958ec2f3/preview
